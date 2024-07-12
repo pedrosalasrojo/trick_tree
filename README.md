@@ -46,6 +46,10 @@ This is a work in progress version. Do not use or cite without checking. This ex
 
 *References*:
 
-Valentini, A., Brunori, P., Ferreira, F., and Salas-Rojo, P. (2024) Playing the birth lottery in Europe (mimeo)
-
 Escanciano, J. C., and Terschuur, J. R. (2022) "Debiased semiparametric U-statistics: Machine learning inference on inequality of opportunity", ArXiv Preprint arXiv:2206.05235 (Under Review at RESTUD).
+
+Hothorn, T., Kurt, H., and Zeileis, A. (2006) "Unbiased recursive partitioning: A conditional inference framework", Journal of Computational and Graphical statistics, 15.3:651-674.
+
+Hothorn, T. and Zeileis, A., 2015. (2015) "partykit: A modular toolkit for recursive partytioning in R", The Journal of Machine Learning Research, 16.1:3905-3909.
+
+Valentini, A., Brunori, P., Ferreira, F., and Salas-Rojo, P. (2024) Playing the birth lottery in Europe (mimeo)
