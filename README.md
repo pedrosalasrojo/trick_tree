@@ -36,7 +36,7 @@ table(res[[type_part]])
 Finally, estimate IOp on the resulting type partition. First, group by the final type partition and estimate the average. Then, apply a suitable inequality measure.
 ```
 res <- res %>%
-  group_by(types_5) %>%
+  group_by(get(type_part)) %>%
   mutate(y_tilde = mean(income)) %>% ungroup()
 print(gini.wtd(res$y_tilde))
 ```
