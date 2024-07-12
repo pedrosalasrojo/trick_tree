@@ -1,4 +1,4 @@
-# "Trick" Conditional Inference Tree
+# "Trick" for Conditional Inference Tree
 
 Here we show a function that tricks the Conditional Inference Tree as proposed in Valentini, Brunori, Ferreira and Salas-Rojo (2024)
 
