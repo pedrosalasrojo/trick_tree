@@ -1,6 +1,6 @@
 # "Trick" for Conditional Inference Tree
 
-Here we show a function that tricks the Conditional Inference Tree as proposed in Valentini, Brunori, Ferreira and Salas-Rojo (2024)
+Here we show a function that tricks the Conditional Inference Tree, as proposed in Valentini, Brunori, Ferreira, and Salas-Rojo (2024). Find the paper [here](https://www.ecineq.org/milano/WP/ECINEQ2026-695.pdf). For clarifications or suggestions, please reach out to [pedro.salas@cunef.edu](mailto:pedro.salas@cunef.edu)
 
 ## Files
 function_trick.R: this script contains the function producing the trick-tree. Some comments clarify the arguments to be plugged.
@@ -52,4 +52,4 @@ Hothorn, T., Kurt, H., and Zeileis, A. (2006) "Unbiased recursive partitioning: 
 
 Hothorn, T. and Zeileis, A., 2015. (2015) "partykit: A modular toolkit for recursive partytioning in R", The Journal of Machine Learning Research, 16.1:3905-3909.
 
-Valentini, A., Brunori, P., Ferreira, F., and Salas-Rojo, P. (2024) Playing the birth lottery in Europe (mimeo)
+Valentini, A., Brunori, P., Ferreira, F., and Salas-Rojo, P. (2026) Playing the birth lottery in Europe (ECINEQ Working Papers Series, 695)
